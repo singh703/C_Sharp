@@ -1,0 +1,8 @@
+C:\Users\Anurag Singh\source\repos\GreaterNumber\obj\Debug\GreaterNumber.csproj.AssemblyReference.cache
+C:\Users\Anurag Singh\source\repos\GreaterNumber\obj\Debug\GreaterNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anurag Singh\source\repos\GreaterNumber\obj\Debug\GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\Anurag Singh\source\repos\GreaterNumber\bin\Debug\GreaterNumber.exe.config
+C:\Users\Anurag Singh\source\repos\GreaterNumber\bin\Debug\GreaterNumber.exe
+C:\Users\Anurag Singh\source\repos\GreaterNumber\bin\Debug\GreaterNumber.pdb
+C:\Users\Anurag Singh\source\repos\GreaterNumber\obj\Debug\GreaterNumber.exe
+C:\Users\Anurag Singh\source\repos\GreaterNumber\obj\Debug\GreaterNumber.pdb

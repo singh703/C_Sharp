@@ -1,0 +1,3 @@
+C:\Users\Anurag Singh\source\repos\OopsCalculator\obj\Debug\OopsCalculator.csproj.AssemblyReference.cache
+C:\Users\Anurag Singh\source\repos\OopsCalculator\obj\Debug\OopsCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anurag Singh\source\repos\OopsCalculator\obj\Debug\OopsCalculator.csproj.CoreCompileInputs.cache

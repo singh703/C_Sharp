@@ -1,0 +1,8 @@
+C:\Users\Anurag Singh\source\repos\7_Search_Value_Array\obj\Debug\7_Search_Value_Array.csproj.AssemblyReference.cache
+C:\Users\Anurag Singh\source\repos\7_Search_Value_Array\obj\Debug\7_Search_Value_Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anurag Singh\source\repos\7_Search_Value_Array\obj\Debug\7_Search_Value_Array.csproj.CoreCompileInputs.cache
+C:\Users\Anurag Singh\source\repos\7_Search_Value_Array\bin\Debug\7_Search_Value_Array.exe.config
+C:\Users\Anurag Singh\source\repos\7_Search_Value_Array\bin\Debug\7_Search_Value_Array.exe
+C:\Users\Anurag Singh\source\repos\7_Search_Value_Array\bin\Debug\7_Search_Value_Array.pdb
+C:\Users\Anurag Singh\source\repos\7_Search_Value_Array\obj\Debug\7_Search_Value_Array.exe
+C:\Users\Anurag Singh\source\repos\7_Search_Value_Array\obj\Debug\7_Search_Value_Array.pdb

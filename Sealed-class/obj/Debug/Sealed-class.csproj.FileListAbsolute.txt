@@ -1,0 +1,3 @@
+C:\Users\Anurag Singh\source\repos\Sealed-class\obj\Debug\Sealed-class.csproj.AssemblyReference.cache
+C:\Users\Anurag Singh\source\repos\Sealed-class\obj\Debug\Sealed-class.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anurag Singh\source\repos\Sealed-class\obj\Debug\Sealed-class.csproj.CoreCompileInputs.cache

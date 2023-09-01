@@ -1,0 +1,8 @@
+C:\Users\Anurag Singh\source\repos\3_LargestElements\bin\Debug\3_LargestElements.exe.config
+C:\Users\Anurag Singh\source\repos\3_LargestElements\bin\Debug\3_LargestElements.exe
+C:\Users\Anurag Singh\source\repos\3_LargestElements\bin\Debug\3_LargestElements.pdb
+C:\Users\Anurag Singh\source\repos\3_LargestElements\obj\Debug\3_LargestElements.csproj.AssemblyReference.cache
+C:\Users\Anurag Singh\source\repos\3_LargestElements\obj\Debug\3_LargestElements.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anurag Singh\source\repos\3_LargestElements\obj\Debug\3_LargestElements.csproj.CoreCompileInputs.cache
+C:\Users\Anurag Singh\source\repos\3_LargestElements\obj\Debug\3_LargestElements.exe
+C:\Users\Anurag Singh\source\repos\3_LargestElements\obj\Debug\3_LargestElements.pdb

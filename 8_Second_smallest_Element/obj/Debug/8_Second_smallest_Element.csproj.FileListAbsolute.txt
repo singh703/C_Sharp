@@ -1,0 +1,8 @@
+C:\Users\Anurag Singh\source\repos\8_Second_smallest_Element\obj\Debug\8_Second_smallest_Element.csproj.AssemblyReference.cache
+C:\Users\Anurag Singh\source\repos\8_Second_smallest_Element\obj\Debug\8_Second_smallest_Element.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anurag Singh\source\repos\8_Second_smallest_Element\obj\Debug\8_Second_smallest_Element.csproj.CoreCompileInputs.cache
+C:\Users\Anurag Singh\source\repos\8_Second_smallest_Element\bin\Debug\8_Second_smallest_Element.exe.config
+C:\Users\Anurag Singh\source\repos\8_Second_smallest_Element\bin\Debug\8_Second_smallest_Element.exe
+C:\Users\Anurag Singh\source\repos\8_Second_smallest_Element\bin\Debug\8_Second_smallest_Element.pdb
+C:\Users\Anurag Singh\source\repos\8_Second_smallest_Element\obj\Debug\8_Second_smallest_Element.exe
+C:\Users\Anurag Singh\source\repos\8_Second_smallest_Element\obj\Debug\8_Second_smallest_Element.pdb

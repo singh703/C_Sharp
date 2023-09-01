@@ -1,0 +1,8 @@
+C:\Users\Anurag Singh\source\repos\2_AverageOfFloatingNumbers\obj\Debug\2_AverageOfFloatingNumbers.csproj.AssemblyReference.cache
+C:\Users\Anurag Singh\source\repos\2_AverageOfFloatingNumbers\obj\Debug\2_AverageOfFloatingNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anurag Singh\source\repos\2_AverageOfFloatingNumbers\obj\Debug\2_AverageOfFloatingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Anurag Singh\source\repos\2_AverageOfFloatingNumbers\bin\Debug\2_AverageOfFloatingNumbers.exe.config
+C:\Users\Anurag Singh\source\repos\2_AverageOfFloatingNumbers\bin\Debug\2_AverageOfFloatingNumbers.exe
+C:\Users\Anurag Singh\source\repos\2_AverageOfFloatingNumbers\bin\Debug\2_AverageOfFloatingNumbers.pdb
+C:\Users\Anurag Singh\source\repos\2_AverageOfFloatingNumbers\obj\Debug\2_AverageOfFloatingNumbers.exe
+C:\Users\Anurag Singh\source\repos\2_AverageOfFloatingNumbers\obj\Debug\2_AverageOfFloatingNumbers.pdb

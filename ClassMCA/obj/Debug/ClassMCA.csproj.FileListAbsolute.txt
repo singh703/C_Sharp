@@ -1,0 +1,8 @@
+C:\Users\Anurag Singh\source\repos\ClassMCA\obj\Debug\ClassMCA.csproj.AssemblyReference.cache
+C:\Users\Anurag Singh\source\repos\ClassMCA\obj\Debug\ClassMCA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anurag Singh\source\repos\ClassMCA\obj\Debug\ClassMCA.csproj.CoreCompileInputs.cache
+C:\Users\Anurag Singh\source\repos\ClassMCA\bin\Debug\ClassMCA.exe.config
+C:\Users\Anurag Singh\source\repos\ClassMCA\bin\Debug\ClassMCA.exe
+C:\Users\Anurag Singh\source\repos\ClassMCA\bin\Debug\ClassMCA.pdb
+C:\Users\Anurag Singh\source\repos\ClassMCA\obj\Debug\ClassMCA.exe
+C:\Users\Anurag Singh\source\repos\ClassMCA\obj\Debug\ClassMCA.pdb

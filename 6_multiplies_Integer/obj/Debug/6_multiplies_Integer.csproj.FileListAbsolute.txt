@@ -1,0 +1,8 @@
+C:\Users\Anurag Singh\source\repos\6_multiplies_Integer\bin\Debug\6_multiplies_Integer.exe.config
+C:\Users\Anurag Singh\source\repos\6_multiplies_Integer\bin\Debug\6_multiplies_Integer.exe
+C:\Users\Anurag Singh\source\repos\6_multiplies_Integer\bin\Debug\6_multiplies_Integer.pdb
+C:\Users\Anurag Singh\source\repos\6_multiplies_Integer\obj\Debug\6_multiplies_Integer.csproj.AssemblyReference.cache
+C:\Users\Anurag Singh\source\repos\6_multiplies_Integer\obj\Debug\6_multiplies_Integer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anurag Singh\source\repos\6_multiplies_Integer\obj\Debug\6_multiplies_Integer.csproj.CoreCompileInputs.cache
+C:\Users\Anurag Singh\source\repos\6_multiplies_Integer\obj\Debug\6_multiplies_Integer.exe
+C:\Users\Anurag Singh\source\repos\6_multiplies_Integer\obj\Debug\6_multiplies_Integer.pdb

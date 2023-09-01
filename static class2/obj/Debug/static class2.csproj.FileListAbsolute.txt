@@ -1,0 +1,3 @@
+C:\Users\Anurag Singh\source\repos\static class2\obj\Debug\static class2.csproj.AssemblyReference.cache
+C:\Users\Anurag Singh\source\repos\static class2\obj\Debug\static class2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anurag Singh\source\repos\static class2\obj\Debug\static class2.csproj.CoreCompileInputs.cache

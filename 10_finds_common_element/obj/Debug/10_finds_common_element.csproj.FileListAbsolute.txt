@@ -1,0 +1,8 @@
+C:\Users\Anurag Singh\source\repos\10_finds_common_element\bin\Debug\10_finds_common_element.exe.config
+C:\Users\Anurag Singh\source\repos\10_finds_common_element\bin\Debug\10_finds_common_element.exe
+C:\Users\Anurag Singh\source\repos\10_finds_common_element\bin\Debug\10_finds_common_element.pdb
+C:\Users\Anurag Singh\source\repos\10_finds_common_element\obj\Debug\10_finds_common_element.csproj.AssemblyReference.cache
+C:\Users\Anurag Singh\source\repos\10_finds_common_element\obj\Debug\10_finds_common_element.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anurag Singh\source\repos\10_finds_common_element\obj\Debug\10_finds_common_element.csproj.CoreCompileInputs.cache
+C:\Users\Anurag Singh\source\repos\10_finds_common_element\obj\Debug\10_finds_common_element.exe
+C:\Users\Anurag Singh\source\repos\10_finds_common_element\obj\Debug\10_finds_common_element.pdb

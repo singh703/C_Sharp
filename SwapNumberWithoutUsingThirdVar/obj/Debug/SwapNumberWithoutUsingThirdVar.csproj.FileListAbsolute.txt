@@ -1,0 +1,8 @@
+C:\Users\Anurag Singh\source\repos\SwapNumberWithoutUsingThirdVar\bin\Debug\SwapNumberWithoutUsingThirdVar.exe.config
+C:\Users\Anurag Singh\source\repos\SwapNumberWithoutUsingThirdVar\bin\Debug\SwapNumberWithoutUsingThirdVar.exe
+C:\Users\Anurag Singh\source\repos\SwapNumberWithoutUsingThirdVar\bin\Debug\SwapNumberWithoutUsingThirdVar.pdb
+C:\Users\Anurag Singh\source\repos\SwapNumberWithoutUsingThirdVar\obj\Debug\SwapNumberWithoutUsingThirdVar.csproj.AssemblyReference.cache
+C:\Users\Anurag Singh\source\repos\SwapNumberWithoutUsingThirdVar\obj\Debug\SwapNumberWithoutUsingThirdVar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anurag Singh\source\repos\SwapNumberWithoutUsingThirdVar\obj\Debug\SwapNumberWithoutUsingThirdVar.csproj.CoreCompileInputs.cache
+C:\Users\Anurag Singh\source\repos\SwapNumberWithoutUsingThirdVar\obj\Debug\SwapNumberWithoutUsingThirdVar.exe
+C:\Users\Anurag Singh\source\repos\SwapNumberWithoutUsingThirdVar\obj\Debug\SwapNumberWithoutUsingThirdVar.pdb

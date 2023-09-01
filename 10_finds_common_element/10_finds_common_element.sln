@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_finds_common_element", "10_finds_common_element.csproj", "{96BCC363-2DF4-44E4-B6A6-13384D393562}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96BCC363-2DF4-44E4-B6A6-13384D393562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96BCC363-2DF4-44E4-B6A6-13384D393562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96BCC363-2DF4-44E4-B6A6-13384D393562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96BCC363-2DF4-44E4-B6A6-13384D393562}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FF60E72-42AB-465A-97E5-92681CA9600E}
+	EndGlobalSection
+EndGlobal
